@@ -10,6 +10,7 @@ It was finished as a component of the Accenture Primers Cloud Project, which sou
 
 •	CloudFront Distribution URL:
 🔗 http://d2p9og5esonrzt.cloudfront.net
+
 Both links lead to the live version of the website hosted on AWS.
 
 ## This process gave me a lot of hands-on experience with different AWS services. 
