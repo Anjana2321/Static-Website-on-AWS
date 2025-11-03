@@ -95,7 +95,7 @@ By integrating **Amazon S3** and **CloudFront**, the website achieves **fast con
 
 ## Regards
 Anjana E.
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/anjana-e-e-62a906224)
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/anjana-e-62a906224/)
 
 ---
 ⭐ *Deployed as part of the Accenture Primers Cloud Project on Static Website Hosting using AWS.*
