@@ -7,6 +7,7 @@ It was finished as a component of the Accenture Primers Cloud Project, which sou
 
 •	S3 Website Endpoint:
 🔗 http://my-4125-7023-6352-bucket.s3-website-us-east-1.amazonaws.com
+
 •	CloudFront Distribution URL:
 🔗 http://d2p9og5esonrzt.cloudfront.net
 Both links lead to the live version of the website hosted on AWS.
